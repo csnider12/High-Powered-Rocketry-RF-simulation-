@@ -60,18 +60,6 @@ This plot tracks the field level along the coupler centerline from the bottom to
 - Frequency-domain sweep analysis (401 MHz & 901 MHz)
 - Output variable / limit-line plotting for pass/fail attenuation criteria
 
-## Repository Contents
-
-```
-├── README.md
-└── images/
-    ├── test_view.png              # Simplified coupler model, isometric view
-    ├── test_setup.png             # Excitation/wave port setup
-    ├── xz_401mhz.png              # E-field, XZ plane, 401 MHz
-    ├── xz_901mhz.png              # E-field, XZ plane, 901 MHz
-    └── distance_vs_attenuation.png # Centerline attenuation vs. distance, both bands
-```
-
 ---
 
 *This analysis was performed as part of a student engineering competition project involving onboard avionics and tracking hardware.*
