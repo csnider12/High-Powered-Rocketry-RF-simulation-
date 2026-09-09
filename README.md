@@ -52,7 +52,7 @@ This plot tracks the field level along the coupler centerline from the bottom to
 
 - Simulation results showed attenuation through the aluminum coupler was within acceptable limits at both 401 MHz and 915 MHz.
 - Based on these results, the team proceeded with manufacturing the coupler as designed.
-- **Field validation:** at competition, live testing of the manufactured coupler confirmed the simulation predictions — radio communication from the housed devices was not significantly degraded, and all tracked components maintained signal for the entire duration of flight.
+- **Field validation:** at competition, live testing of the manufactured coupler confirmed the simulation predictions: radio communication from the housed devices was not significantly degraded, and all tracked components maintained signal for the entire duration of flight.
 
 ## Tools Used
 
