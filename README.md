@@ -15,7 +15,7 @@ Rather than risk a hardware iteration cycle, we simulated the coupler in Ansys H
 
 ## Approach
 
-1. **Modeling** — A simplified ("crude") representation of the coupler and internal antenna/wave port setup was built in HFSS to keep simulation time manageable while preserving the geometry that matters most for RF propagation: the cylindrical aluminum housing.
+1. **Modeling** — A simplified ("crude") representation of the coupler and internal antenna/wave port setup was built in HFSS to keep simulation time manageable while preserving the geometry that matters most for RF propagation: the cylindrical aluminum housing. After the coupler was anticipated to be usable, further testing was conducted with the exact design the team planned to manufacture.
 2. **Excitation** — An incident wave source was applied along the coupler's centerline to represent the onboard transmitter.
 3. **Frequency sweeps** — Simulations were run at both target bands:
    - **401 MHz** (e.g., tracking system band)
