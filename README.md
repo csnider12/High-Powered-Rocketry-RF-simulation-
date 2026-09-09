@@ -46,7 +46,7 @@ At both frequencies, the field is strongest near the feed point and decays as it
 ### Attenuation vs. Distance
 ![Distance vs attenuation](images/distance_vs_attenuation.png)
 
-This plot tracks the field level along the coupler centerline from the bottom to the top for both frequency sweeps, against a defined limit line used as the pass/fail threshold for the design. Both curves stayed within the acceptable range across the full length of the coupler, confirming the design met the attenuation requirement at both bands.
+This plot tracks the field level along the coupler centerline from the bottom to the top for both frequency sweeps. Both curves stayed within the acceptable range across the full length of the coupler, confirming the design met the signal integrity requirement at both bands.
 
 ## Outcome
 
